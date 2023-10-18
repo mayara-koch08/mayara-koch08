@@ -1,16 +1,21 @@
-### Hi there 👋
+### olá 👋
 
-<!--
-**mayara-koch08/mayara-koch08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Boas vindas ao meu perfil** ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Mayara Cristina Pereira Koch
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo :mailbox
+
+mayacp@outlook.com
+
+- 🔭 Atualmente estou trabalhando em três escolas: Colégio estadual Reassentamento São Marcos, Colégio Estadual Dilma Angélico e Colégio Civico Militar Doutor João Ferreira Neves.
+- 🌱 Atualmente estou aprendendo programação. Curso graduação em Matemática e pós graduação em Metodologia de Ensino de Ciências e Matemática. 
+- 👯 Procuro colaborar em meu ambiente de trabalho e famíliar. 
+- 🤔 Estou procurando ajuda com compartilhamento de códigos. 
+
+![](https://media.tenor.com/dbZuOF0ZGsYAAAAi/teacher-school.gif)
+
